@@ -1,8 +1,8 @@
 <img src="https://scontent-a-fra.xx.fbcdn.net/hphotos-prn2/t1.0-9/1493139_1439365249624900_269479873_n.png" title="logo" alt="logo" width="100px"/>
 FB event guest list arranger
-DOWNLOAD: <a href="https://dl.dropboxusercontent.com/u/110077109/programs/FacebookEventQ.jar">CLICK HERE</a>
 ===========
 
+DOWNLOAD: <a href="https://dl.dropboxusercontent.com/u/110077109/programs/FacebookEventQ.jar">CLICK HERE</a>
 https://www.facebook.com/eventguestlist
 
 Facebook event guest list arranger, guest list sorter. Does what shown in images, a good tool for people who create events, and need list of attendants.
