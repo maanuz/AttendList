@@ -4,6 +4,8 @@ FB event guest list arranger
 
 https://www.facebook.com/eventguestlist
 
+Facebook event guest list arranger, guest list sorter. Does what shown in images, a good tool for people who create events, and need list of attendants.
+
 Some images of what the program does, 
 <img style="width:100%" src="https://fbcdn-sphotos-g-a.akamaihd.net/hphotos-ak-prn2/t31.0-8/1396764_1439000922994666_854792405_o.png" title="pic2" alt="pic2"/>
 
